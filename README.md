@@ -68,6 +68,7 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
 - **Trend Analysis**: Track changes over time
 - **Risk Assessment**: Visual representation of job risk factors
 - **Skill Correlation**: Analyze relationship between AI skills and job security
+- **Real-time Updates**: Dynamic data refresh capabilities
 
 ## 📈 Dashboard Highlights
 
