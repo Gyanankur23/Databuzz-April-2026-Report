@@ -62,6 +62,10 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
    - Refer to the PDF report for detailed methodology
    - Check the docs folder for additional reference materials
 
+4. **Customize Analysis**
+   - Use filters to focus on specific industries or job types
+   - Adjust parameters to explore different scenarios
+
 ## 📊 Key Features
 
 - **Interactive Visualizations**: Dynamic charts and graphs
