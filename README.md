@@ -46,6 +46,7 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
 ### Prerequisites
 - **Power BI Desktop** (latest version recommended)
 - **Microsoft Excel** (for viewing the dataset)
+- **Basic understanding of data analysis concepts**
 
 ### How to Use
 
