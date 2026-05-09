@@ -83,6 +83,7 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
 - Geographic distribution analysis
 - Time-series trend visualizations
 - Skill gap analysis across job roles
+- Predictive modeling insights
 
 ## 📚 Documentation
 
