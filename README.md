@@ -90,6 +90,7 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
 - **Judgment Criteria**: Evaluation framework used for the analysis
 - **Dataset Overview**: Detailed description of data sources and structure
 - **Research Questions**: Key questions addressed in the analysis
+- **Methodology Notes**: Technical approach and data processing steps
 
 ## 👤 Author
 
