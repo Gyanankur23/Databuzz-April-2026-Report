@@ -97,6 +97,7 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
 **Gyanankur Baruah**
 - Databuzz April 2026 Challenge Participant
 - Data Analyst & Power BI Developer
+- Specializing in AI impact analysis and data visualization
 
 ## 📝 License
 
