@@ -8,7 +8,7 @@
 
 ## 📋 Overview
 
-This project presents a comprehensive analysis of how AI skills impact job risk across different sectors. The dashboard provides interactive visualizations to explore correlations, trends, and insights from the dataset.
+This project presents a comprehensive analysis of how AI skills impact job risk across different sectors. The dashboard provides interactive visualizations to explore correlations, trends, and insights from the dataset. The analysis aims to help organizations and individuals understand the evolving landscape of AI adoption and its implications for job security.
 
 ## 🎯 Submission Files
 
