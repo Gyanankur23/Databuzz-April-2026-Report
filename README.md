@@ -103,6 +103,12 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
 
 This project is submitted as part of the Databuzz April 2026 Challenge.
 
+## 🙏 Acknowledgments
+
+- Databuzz community for organizing the challenge
+- Power BI team for excellent visualization tools
+- Data sources and contributors to the AI skills dataset
+
 ---
 
 **Note**: For best viewing experience, open the Power BI dashboard (.pbix file) in Power BI Desktop to access all interactive features.
