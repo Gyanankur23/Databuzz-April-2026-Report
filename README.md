@@ -17,12 +17,14 @@ This project presents a comprehensive analysis of how AI skills impact job risk 
 - Complete analysis and methodology
 - Key findings and insights
 - Dashboard screenshots and explanations
+- Data sources and references
 
 ### 📊 [Gyanankur AI Skills vs Job Risk Dashboard.pbix](submissions/Gyanankur%20AI%20Skills%20vs%20Job%20Risk%20Dashboard.pbix)
 **Interactive Power BI Dashboard**
 - Fully functional Power BI report
 - Interactive visualizations and filters
 - Drill-down capabilities for detailed analysis
+- Custom measures and calculated columns
 
 ## 📁 Project Structure
 
